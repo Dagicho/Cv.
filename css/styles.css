@@ -116,7 +116,7 @@ a{
 .top-cloud {
   position: absolute;
   right: 250px;
-  top: 50px;
+  top: auto;
 }
 
 .bottom-cloud {
