@@ -1,0 +1,142 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 5.625rem;
+  line-height: 2;
+  margin-top:50px;
+  margin-bottom: 0;
+  font-family: 'Sacramento', cursive;
+
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  margin-top: 0px;
+  color: #66BFBF;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+
+}
+hr {
+  border-style: dotted none none;
+  width: 6%;
+  border-width:10px;
+  border-color: #EAF6F6;
+}
+a{
+  font-family: 'Montserrat',sans-serif;
+  margin: 100px 20px;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: white;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+
+  padding-top: 10px;
+  padding-bottom: 50px;
+}
+.increase-size0getin-touch{
+  font-size: 60px;
+}
+.detail{
+  position: relative;
+  bottom: 25px
+}
+.skill-row{
+  text-align: left;
+  line-height: 2;
+  width: 50%;
+  margin: 100px auto 100px auto;
+}
+.computer{
+  width: 25%;
+  text-align: center;
+  float: left;
+  margin-right: 30px;
+}
+.joystick{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.contact-me{
+  text-align: center;
+}
+  .btn {
+  -webkit-border-radius: 13;
+  -moz-border-radius: 13;
+  border-radius: 13px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 20px;
+  background: #66BFBF;
+  padding: 18px 25px 21px 28px;
+  border: solid #1f628d 0px;
+  text-decoration: none;
+  position: relative;
+  bottom: 35px;
+  top: 100px;
+
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 250px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 1900px;
+}
+
+.footer-link {
+  color: #11999E;
+  position: relative;
+  top: 30px;
+  text-decoration: none;
+  display: inline-block;
+  padding: 10px;
+    margin: 10px;
+}
+.copyright{
+  color: #EAF6F6;
+  height: 50px;
+  position: relative;
+  top: 50px;
+}
